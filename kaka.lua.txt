@@ -560,6 +560,8 @@ Main_Home:addButton("Aim Lock Player", function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/AlexAimBot/refs/heads/main/AimBotBanTumLum.lua.txt"))()
 
+end)
+
 local Home_Left = Tab.Tab_1:addSection()
 local Changelog = Home_Left:addMenu("Thông Tin")
 Changelog:addChangelog('Xin Chào Tất Cả Các Bạn ❤️')
